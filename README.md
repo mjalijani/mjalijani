@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Kotlin & Solidity**
 
-- 📝 I regularly write articles on [https://virgool.io/@mj.alijani](https://virgool.io/@mj.alijani)
-
 - 💬 Ask me about **Android Development**
 
 <h3 align="left">Connect with me:</h3>
