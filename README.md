@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me [Gmail](mj.alijani@gmail.com)
+- 📫 How to reach me [Email](mj.alijani@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
