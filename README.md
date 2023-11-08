@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjalijani" alt="mjalijani" /></a> </p>
 
-- 🔭 I’m currently working on **BTS**
+- 🔭 I’m currently working on **Hi Bank**
 
-- 🌱 I’m currently learning **Kotlin & Solidity**
+- 🌱 I’m currently learning **Kotlin  Multiplatform**
 
 - 💬 Ask me about **Android Development**
 
