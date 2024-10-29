@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mjalijani" alt="mjalijani" /></a> </p>
 
-- 🔭 I’m currently working on **Hi Bank**
+- 🔭 I’m currently working on **SplitWisely**
 
 - 🌱 I’m currently learning **Kotlin  Multiplatform**
-
-- 💬 Ask me about **Android Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
